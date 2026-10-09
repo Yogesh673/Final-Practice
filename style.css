@@ -1,0 +1,28 @@
+body {
+    
+    background: linear-gradient(to right, #2193b0, #6dd5a7);
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+   
+
+    
+    
+    
+}
+
+.todo-list {
+    width: 40%;
+    border: 1px solid rgb(183, 153, 153);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to right, #8e2de2, #ff6a88);
+    position: absolute;
+    top: 30%;
+    
+    
+
+}
+
